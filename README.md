@@ -1,2 +1,3 @@
-# C-
-This repository will have all the files related to the youtube channel
+# CoderSmoker
+
+This Repository will have the information related
